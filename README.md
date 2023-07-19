@@ -40,7 +40,7 @@ Before running the project, make sure you have the following software installed 
   - To host json Run `npm run server:q1`
   - Run `npm run q1`
 
-Time Taken => 45 minutes
+**Time Taken** => 45 minutes
 
 ### Question 2
 
@@ -48,14 +48,14 @@ Time Taken => 45 minutes
   - Run `npm run q2`
   - Your server will be started and you can query to check
 
-Time Taken => 45 minutes
+**Time Taken** => 45 minutes
 
 ### Question 3
 
 1. To run question three perform the following steps
   - Run `npm run q3`
 
-Time Taken => 30 minutes
+**Time Taken** => 30 minutes
 
 ### Question 4
 
@@ -83,7 +83,7 @@ Migrating of any library is a significant task that requires careful planning an
   - setup alerts for critical issues
   - use some tools to track performance like express-status-monitor
 
-Time Taken => 15 minutes
+**Time Taken** => 15 minutes
 
 ### Question 5
 
@@ -120,6 +120,7 @@ To build a Cordova-powered hybrid mobile app capable of self-updating its conten
 
   - Notify users when new content is available and provide an option to update the content manually if desired.
 
+**Time Taken** => 10 minutes
 
 Part 2 => Answer:
 
@@ -128,7 +129,7 @@ To handle files(images and videos) approach, There are multiple approach to hand
 2. Handle it by sending the files in the chunk. Once backend receive it will store the file and keep appending the new data. Once it's finished then upload it to some storage provide and remove the file from the server.
 To keep in mind the connectivity, we will add retriers method to refetch the data if chunk is not received correctly. Once received correctly then append. This way we can ensure the file is uploaded even for weak/poor connection.
 
-Time Taken => 5 minutes
+**Time Taken** => 5 minutes
 
 Part 3 => Answer:
 
@@ -152,3 +153,6 @@ To automate the process of building and signing .ipa/.apk files for iOS
 
 7. Notification and alerts
   - Alert when a build is passed or failed
+
+**Time Taken** => 10 minutes
+
